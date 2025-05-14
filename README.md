@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/167385240?v=4" alt="Foto do GitHub" width="150" style="border-radius: 50%; border: 5px solid #00BFFF; box-shadow: 0 4px 10px rgba(0, 191, 255, 0.5);" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Codando+ideias+em+realidade;Desenvolvedor+Full+Stack+focado+em+performance;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
