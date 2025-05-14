@@ -53,7 +53,8 @@ Busco constantemente evoluir em projetos práticos, colaborativos e com impacto 
 
 - Email: **adel.mouhaidly@gmail.com**  
 - Portfólio: [portfolio-do-adel-mouhaidly.vercel.app](https://portfolio-do-adel-mouhaidly-7ide.vercel.app)  
-- LinkedIn: [www.linkedin.com/in/adelmouhaidly](www.linkedin.com/in/adelmouhaidly/)
+- LinkedIn: [https://www.linkedin.com/in/adelmouhaidly/](https://www.linkedin.com/in/adelmouhaidly/)
+
 
 ---
 
